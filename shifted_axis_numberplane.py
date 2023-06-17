@@ -1,10 +1,6 @@
 from manim import *
 from manim.mobject.geometry.tips import *
 
-# appending a path
-sys.path.append("../../")
-
-
 class ShiftedAxisGraph(Scene):
     """
     Demonstration of shifting the y-axis to the left-side border of NumberPlane
